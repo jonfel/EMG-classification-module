@@ -1,7 +1,8 @@
 # EMG-classification-module
 
-Repository for the development of classification experiments with EMG data in order to improve the classification rate for this kind of data.
-Repositório para o desenvolvimento de experimentos de classificação com dados EMG com o objetivo de melhorar o indice de classificação para dados do tipo.
+###### Repository for the development of classification experiments with EMG data in order to improve the classification rate for this kind of data.
+
+###### Repositório para o desenvolvimento de experimentos de classificação com dados EMG com o objetivo de melhorar o indice de classificação para dados do tipo.
 
 ## Instructions
 
